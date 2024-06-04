@@ -5,9 +5,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br><br><br><br>
 # 📊 GitHub Stats:
-<p><img align="left" src="
-https://github-readme-stats.vercel.app/api/top-langs?username=Burim2023&show_icons=true&theme=dark&locale=en&layout=compact"
-alt="MarsonRed" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarsonRed&show_icons=true&theme=dark&locale=en&layout=compact"alt="MarsonRed" /></p>
 <br><br><br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarsonRed&theme=dark&hide_border=false)<br/>
 <br><br><br><br>
