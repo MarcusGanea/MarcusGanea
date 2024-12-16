@@ -10,7 +10,7 @@
 <br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcusGanea&theme=dark&hide_border=false)<br/>
 <br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusGanea&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusGanea&layout=donut&theme=midnight-purple&langs_count=5&size_weight=0.5)](https://github.com/Tristan-BS/github-readme-stats)
 <br><br>
 
 ## 🏆 GitHub Trophies
