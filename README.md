@@ -29,17 +29,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 🌐 GitHub Skyline
-Check out my [GitHub Skyline](https://skyline.github.com/MarcusGanea/2023)!
-
-### 📊 GitHub Activity Graph
-[![MarcusGanea's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarcusGanea&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/MarcusGanea?template=classic&isocalendar=1&languages=1&introduction=1&people=1&achievements=1&activity=1&code=1&followup=1&lines=1&repositories=1&repositories=100&activity=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&people.limit=24&people.identicons=false&people.size=28&people.types=followers&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&config.timezone=America%2FToronto)
-
-### 🏅 DevCard
-<a href="https://app.daily.dev/MarcusGanea"><img src="https://api.daily.dev/devcards/your-devcard-id.svg" width="400" alt="Marcus Ganea's Dev Card"/></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MarcusGanea&icon=0&color=0)](https://visitcount.itsvg.in)
