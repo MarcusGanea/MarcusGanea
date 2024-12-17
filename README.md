@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Marcus Ganea</h1>
-<h3 align="center">A passionate software developer</h3>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
