@@ -26,6 +26,7 @@
 <br><br>
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=MarcusGanea&bg_color=30,3e1b00,350082&title_color=ffa821&text_color=fff" alt="My GitHub stats">
+  <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusGanea&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </div>
 
