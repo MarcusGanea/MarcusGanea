@@ -22,15 +22,14 @@
 <br><br>
 
 # 📊 GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats-weld-two.vercel.app?user=MarcusGanea&theme=dark)](https://git.io/streak-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusGanea&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MarcusGanea&bg_color=30,3e1b00,350082&title_color=ffa821&text_color=fff" alt="My GitHub stats">
+<br><br>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusGanea&layout=donut\&bg_color=30,3e1b00,350082\&title_color=ffa821\&text_color=fff&langs_count=6&size_weight=0.5)](https://github.com/MarcusGanea/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusGanea&layout=donut&bg_color=30,3e1b00,350082&title_color=ffa821&text_color=fff&langs_count=6&size_weight=0.5)](https://github.com/MarcusGanea/github-readme-stats)
 <br><br>
 
 ## 🏆 GitHub Trophies
@@ -38,7 +37,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MarcusGanea&icon=0&bg_color=30,3e1b00,350082)](https://visitcount.itsvg.in)
