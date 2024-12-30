@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusGanea&layout=donut&bg_color=30,3e1b00,350082&title_color=ffa821&text_color=fff&langs_count=6&size_weight=0.5)](https://github.com/MarcusGanea/github-readme-stats)
 <br><br>
 
-##  🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MarcusGanea&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
