@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br><br>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats : 
 [![GitHub Streak](https://github-readme-streak-stats-weld-two.vercel.app?user=MarcusGanea&theme=dark)](https://git.io/streak-stats)
 
 <br><br>
