@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcus Ganea</h1>
+<h1 align="center">Hi👋, I'm Marcus Ganea</h1>
 
 <pre>
                                   ___           ___           ___       ___       ___     
